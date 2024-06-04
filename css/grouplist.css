@@ -1,0 +1,55 @@
+table {
+  border-collapse: collapse;
+ 
+
+}
+
+td
+ {
+  border: 1px solid #ddd;
+  font-family: sans-serif;
+  font-size: small;
+  width: 400px;
+  color:#444444;
+
+
+}
+
+th {
+  border: 1px solid #ddd;
+  background-color: #353535;
+  color: white;
+  width: 400px;
+  font-family: sans-serif;
+  text-align: left;
+  font-size: 14px;
+}
+
+td,
+th,
+.anchor_cell a {
+    padding: 8px;
+
+
+}
+
+.anchor_cell {
+  padding: 0;
+}
+
+.anchor_cell a {
+  display: block;
+  color: #3085c1;
+  text-decoration: none;
+}
+
+a:hover  {
+ color:#226b9d;
+}
+a:hover,active  {
+  color:#13486c;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}

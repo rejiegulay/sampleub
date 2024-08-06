@@ -10369,3 +10369,7 @@ color: #f1f1f1;
 .active .arrow::after {
   transform: rotate(45deg);
 }
+.word-wrap {
+  word-wrap: break-word;
+  width: 85%;
+}

@@ -9610,8 +9610,9 @@ button.bg-dark:focus {
 }
 
 .p1{
-  font-family: "Palatino Linotype", Times, serif;
+  font-family:"Palatino Linotype";
 }
+
 .text-lowercase {
   text-transform: lowercase !important;
 }
@@ -9866,6 +9867,7 @@ h3,
 h5,
 .font-weight-semi-bold {
   font-weight: 500 !important;
+
 }
 
 h6,
@@ -9936,11 +9938,12 @@ h6,
   display: block;
 }
 .navbar-light .navbar-nav .nav-link { 
-  padding: 25px 10px;
+  padding: 28px 10px;
   color: #0a1026;
   font-size: 16px;
   font-weight: 600;
   outline: none;
+ 
 
 }
 
@@ -10021,7 +10024,7 @@ h6,
 }
 
 @media (min-width: 992px) {
-  .contact-info .contact-info-item {
+  .contact-info.contact-info -item {
     min-height: 200px;
   }
 }
@@ -10369,7 +10372,10 @@ color: #f1f1f1;
 .active .arrow::after {
   transform: rotate(45deg);
 }
+
 .word-wrap {
   word-wrap: break-word;
   width: 85%;
 }
+
+

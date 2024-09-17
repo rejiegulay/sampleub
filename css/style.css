@@ -9636,6 +9636,10 @@ button.bg-dark:focus {
 .font-weight-normal {
   font-weight: 400 !important;
 }
+.font-weight-normal1 {
+  font-weight: 400 !important;
+  font-size: 18px;
+}
 
 .font-weight-bold {
   font-weight: 700 !important;

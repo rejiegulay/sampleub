@@ -6585,6 +6585,9 @@ button.bg-dark:focus {
 .border-left {
   border-left: 1px solid #dee2e6 !important;
 }
+.border-bottom1 {
+  border-bottom: 5px solid #FFC600 !important;
+}
 
 .border-0 {
   border: 0 !important;
